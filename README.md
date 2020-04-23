@@ -20,3 +20,8 @@ Lab 4 : การประยุกต์ใช้ไมโครคอลโท
 [การสมัคร Github](https://www.youtube.com/watch?v=rIXTcgh79iw&t=17s)
 
 [การประยุกต์ใช้ไมโครคอลโทรลเลอร์](https://drive.google.com/file/d/1RO_lDLuhebX77rjs_g5ehFfXTlRSTHKT/view?usp=sharing)
+
+-------------------------------------------------------------------------------------------------------------------------------------
+![ESP32-CAM](https://images.app.goo.gl/Lum6HkekfqW7DTZC7)
+
+-ตัวอย่างไมโครคอลโทรลเลอร์ ESP32-CAM
